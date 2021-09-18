@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest>
+  <remote fetch="." name="iiaastfs" />
+ 
+  <default remote="iiaastfs" />
+ 
+  <project name="test_version" revision="" upstream="master" />
+  <project name="peer-job-tracking" revision="9b960debec0f119e0c54e7e5957682302ed78656" upstream="master" />
+
+</manifest>
