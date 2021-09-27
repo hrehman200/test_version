@@ -4,7 +4,7 @@
  
   <default remote="iiaastfs" />
  
-  <project name="test_version" revision="b85e12418deed78204dad7213111d690cd4aa6ca" upstream="master" />
+  <project name="test_version" revision="0ccefb7284a3f8cff21ed034f7e4583763aa5c7f" upstream="master" />
   <project name="peer-job-tracking" revision="9b960debec0f119e0c54e7e5957682302ed78656" upstream="master" />
 
 <project name="youtube-private-playlist" revision="2a9e02af65180c2354f9eac625c60352264563c4" upstream="master" /><project name="etsy_orders_to_csv" revision="68af64c2deffe50061aa4c7dc4897f1b219924f4" upstream="master" /></manifest>
